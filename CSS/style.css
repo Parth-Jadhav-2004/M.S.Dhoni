@@ -1,0 +1,149 @@
+* {
+  font-family: "Ubuntu Mono", monospace;
+  background-color: #4a536b;
+}
+
+/* classes styling */
+.heading {
+  text-decoration: none;
+  text-align: center;
+  color: #ff9a8d;
+  font-weight: 500;
+  font-size: large;
+}
+
+.img-right {
+  float: right;
+  border-radius: 50%;
+}
+
+.img-right-a {
+  float: right;
+  height: 315px;
+  padding: 10px;
+  border-radius: 25px;
+}
+
+.img-left-a {
+  float: left;
+  height: 315px;
+  padding: 15px;
+  border-radius: 25px;
+}
+
+.img-right-b {
+  float: right;
+  height: 300px;
+  padding: 15px;
+  border-radius: 25px;
+}
+
+.img-left {
+  height: 300px;
+  float: left;
+  border-radius: 25px;
+  padding: 14px;
+}
+
+.text-color-a {
+  color: rgb(8, 19, 68);
+  text-decoration: none;
+}
+
+.text-color-b {
+  color: rgb(8, 19, 68);
+  text-decoration: underline;
+}
+
+.text-color-c {
+  color: #1e847f;
+  text-decoration: none;
+}
+
+.font-size-a {
+  font-size: 25px;
+  justify-content: center;
+  padding: 15px;
+  color: #aed6dc;
+}
+
+.font-size-b {
+  font-size: 25px;
+  color:  #aed6dc;
+}
+
+.font-size-c {
+  font-size: 35px;
+  /* margin-left: 400px; */
+  text-align: center;
+  color: #ff9a8d;
+  text-decoration: underline;
+}
+
+.font-size-d {
+  font-size: 25px;
+  justify-content: center;
+  padding: 15px;
+  color:  #aed6dc;
+}
+
+.font-size-e {
+  font-size: 35px;
+  text-align: center;
+  color: #ff9a8d;
+  text-decoration: underline;
+}
+
+.font-size-f {
+  font-size: 30px;
+  margin-left: 50px;
+  color: #000000;
+}
+
+.font-size-g {
+  font-size: 25px;
+  justify-content: center;
+  /* align-items: center; */
+  padding: 15px;
+  color: #aed6dc;
+}
+
+.li-font-a {
+  font-size: 25px;
+  padding: 10px;
+  justify-content: center;
+  color: #aed6dc;
+}
+
+.feedback-font{
+  color: #ff9a8d;
+  text-align: center;
+  font-size: 50px;
+}
+
+.font-size-z{
+  color: #000000;
+  font-size: 30px;
+  margin-left: 15px;
+  text-align: center;
+}
+
+.font-size-normal{
+  font-size: 30px;
+}
+
+.common-style{
+  font-size: 20px;
+  border-radius: 23px;
+  border-color: #6515b1;
+  
+}
+
+.center{
+  text-align: center;
+}
+
+span{
+  font-size: 25px;
+  margin: 0px;
+}

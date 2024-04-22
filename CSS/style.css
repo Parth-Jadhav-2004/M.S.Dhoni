@@ -1,6 +1,6 @@
 * {
   font-family: "Ubuntu Mono", monospace;
-  background-color: #4a536b;
+  background-color: #000000;
 }
 
 /* classes styling */
@@ -46,12 +46,12 @@
 }
 
 .text-color-a {
-  color: rgb(8, 19, 68);
+  color: rgb(253, 254, 255);
   text-decoration: none;
 }
 
 .text-color-b {
-  color: rgb(8, 19, 68);
+  color: rgb(241, 241, 241);
   text-decoration: underline;
 }
 
@@ -97,7 +97,7 @@
 .font-size-f {
   font-size: 30px;
   margin-left: 50px;
-  color: #000000;
+  color: #ffffff;
 }
 
 .font-size-g {
